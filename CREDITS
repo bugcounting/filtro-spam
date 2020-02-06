@@ -1,0 +1,16 @@
+Il contenuto di questo repository è copyright 2019-2020 Carlo A. Furia
+(bugcounting.net).
+
+La struttura dell'implementazione del filtro anti-spam è ispirata dal
+capitolo 3 di "Machine Learning for Hackers" di Drew Conway e John
+Myles White, O'Reilly, 2012.
+
+I due corpora di messaggi di spam e ham sono da due raccolte
+pubbliche:
+
+   - The SpamAssassin public corpus
+     https://spamassassin.apache.org/old/publiccorpus/
+
+   - The Ling-Spam dataset
+     http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz
+     http://www.aueb.gr/users/ion/docs/ir_memory_based_antispam_filtering.pdf
